@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@id/animeSearchDestination"
+        android:checkable="true"
+        android:icon="@drawable/ic_search"
+        android:title="@string/anime_search_destination" />
+    <item
+        android:id="@+id/quoteDestination"
+        android:checkable="true"
+        android:icon="@drawable/ic_quote"
+        android:title="@string/quotes_destination_title" />
+    <item
+        android:enabled="false"
+        android:title="Opening &amp; ending" />
+    <item
+        android:enabled="false"
+        android:title="Waifu" />
+    <item
+        android:enabled="false"
+        android:title="Служаночка" />
+    <item
+        android:enabled="false"
+        android:title="" />
+</menu>

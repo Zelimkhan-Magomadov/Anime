@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name" translatable="false">Anime</string>
+
+    // Destination labels
+    <string name="anime_search_destination">Anime search</string>
+    <string name="quotes_destination_title">Quotes</string>
+    <string name="favorites_destination_title">Favorites</string>
+
+    <string name="episode_label">Episode:</string>
+    <string name="start_time_label">Start time:</string>
+    <string name="movie">movie</string>
+    <string name="input_url">Input URL</string>
+    <string name="select_local_file">Select local file</string>
+    <string name="error">Api error</string>
+
+    // Menu items
+    <string name="delete">Delete</string>
+    <string name="select_all">All</string>
+    <string name="deselect_all">None</string>
+
+    // Error messages
+    <string name="internet_connection_error">Internet connection error</string>
+    <string name="timeout_error">Timeout error</string>
+    <string name="enter_url_hint">Enter URL</string>
+    <string name="search">Search</string>
+    // Anime search error messages
+<!--    <string name="timeout_error">Timeout error</string>-->
+
+</resources>
